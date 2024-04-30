@@ -1,0 +1,32 @@
+{
+  "name": "yanju-js-utils",
+  "version": "1.0.0",
+  "description": "chen tea yanju",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenchangmeng/yanju-js-utils"
+  },
+  "keywords": [
+    "chen",
+    "yanju",
+    "tea"
+  ],
+  "author": "yanjuchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenchangmeng/yanju-js-utils/issues"
+  },
+  "dependencies": {
+    "my_dep": "^1.0.0",
+    "another_dep": "~2.2.0"
+  },
+  "devDependencies" : {
+    "my_test_framework": "^3.1.0",
+    "another_dev_dep": "1.0.0 - 1.2.0"
+  },
+  "homepage": "https://github.com/chenchangmeng/yanju-js-utils#readme"
+}
